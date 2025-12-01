@@ -17,6 +17,7 @@ https://e-comerce.parisgroup.cloud
 https://developer.parisgroup.cloud
 https://akuntan.parisgroup.cloud
 
+PROJECT 2
 1. Aplikasi Pendaftaran pelatihan Sertifikasi Nelayan (https://bppptegal.id/)
 2. Admin Panel Aplikasi Pendaftaran Sertifikasi Nelayan (https://admin.bppptegal.id/)
 3. Aplikasi Booking mentor dan pembelajar untuk Mahasiswa ilmu gizi (https://www.nutrisee.id/)
@@ -25,6 +26,13 @@ https://akuntan.parisgroup.cloud
 6. Portal Riftstorm (https://one.confiction.com/portal)
 7. NFT App XPSR24 (https://one.confiction.com/xpsr)
 8. Aplikasi terkait pembuatan laporan asuransi (https://bprbonding.my.id/)
+
+PROJECT 3 (TERBARU)
+1. https://airos.id
+2. mbg.satuvisiraya.com
+3. https://ipusnas2.perpusnas.go.id
+4. https://trijaya-rev-3.satuvisiraya.com
+5. https://trijayatissue.com
 
 ## **Contact**
 - Applying for: *Web Developer*, S K WEBLINE LIMITED (Cyprus).
